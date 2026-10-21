@@ -1,0 +1,6 @@
+# 账号凭据永不入库
+scripts/cookie.txt
+*.cookie
+cred*.json
+.DS_Store
+__pycache__/

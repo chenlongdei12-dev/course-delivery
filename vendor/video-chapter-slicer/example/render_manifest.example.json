@@ -1,0 +1,22 @@
+{
+  "source": "/Users/yourname/Videos/weekly-meeting.mp4",
+  "output_dir": "/Users/yourname/Videos/weekly-meeting-chapters",
+  "preset": "1080p",
+  "chapters": [
+    {
+      "id": "01",
+      "title": "上周数据复盘",
+      "ranges": [ { "in": 42.0, "out": 391.0 } ]
+    },
+    {
+      "id": "02",
+      "title": "本季度目标对齐",
+      "ranges": [ { "in": 402.5, "out": 980.0 } ]
+    },
+    {
+      "id": "03",
+      "title": "行动项与分工",
+      "ranges": [ { "in": 990.0, "out": 1183.0 }, { "in": 1200.0, "out": 1310.5 } ]
+    }
+  ]
+}

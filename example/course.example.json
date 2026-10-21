@@ -1,0 +1,15 @@
+{
+  "course_name": "WorkBuddy AI 办公自动化实操营",
+  "teacher": "陈龙得",
+  "workdir_template": "~/Desktop/workbuddy 实训营",
+  "feishu_template_url": "https://my.feishu.cn/docx/<模板文档token>",
+  "ima_kb_id": "<ima知识库id>",
+  "ima_kb_share_url": "https://ima.qq.com/wiki/?shareId=<分享id>",
+  "baidu_remote_dir": "workbuddy实训营",
+  "quark_dir_name": "workbuddy实训营",
+  "quark_parent_fid": "0",
+  "lessons": [
+    {"no": 1, "topic": "找到落地场景", "meeting_code": "<9位会议号>"},
+    {"no": 2, "topic": "安装与配置", "meeting_code": "<9位会议号>"}
+  ]
+}
